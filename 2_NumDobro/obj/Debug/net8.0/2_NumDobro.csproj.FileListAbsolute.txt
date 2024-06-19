@@ -12,3 +12,4 @@ C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\refin
 C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.pdb
 C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.genruntimeconfig.cache
 C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\ref\2_NumDobro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.sourcelink.json
