@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NumDobro
+namespace ConvertMetrosCM
 {
     class Program
     {
