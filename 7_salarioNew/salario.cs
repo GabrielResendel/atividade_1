@@ -1,7 +1,7 @@
 ﻿// 7. Escreva um algoritmo para ler o salário mensal atual de um funcionário e calcular e escrever o valor do novo salário com 12% de reajuste. 
 using System;
 
-namespace AntecessorSucessor
+namespace AReajusteSalario
 {
     class program
     {
