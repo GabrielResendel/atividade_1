@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 2. Faça um programa que peça um numero e imprima o seu dobro.
+
+using System;
 
 namespace NumDobro
 {

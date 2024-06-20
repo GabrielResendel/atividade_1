@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 3. Faça um programa que converta metros para centimetros (1 metro tem qunatos centimetros? pense nisso).
+
+using System;
 
 namespace ConvertMetrosCM
 {
